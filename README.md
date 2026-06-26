@@ -30,7 +30,7 @@
 
 ### 🤝 Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anne-perera-portfolio.vercel.app/)
-[![LinkedIn](www.linkedin.com/in/anne-perera-b62171359)](https://linkedin.com/in/YOUR-HANDLE)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anne-perera-b62171359)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IdushaniAnnePerera)
 
 ### 📊 GitHub Stats
